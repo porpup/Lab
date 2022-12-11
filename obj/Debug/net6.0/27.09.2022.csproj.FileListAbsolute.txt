@@ -1,0 +1,30 @@
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\bin\Debug\net6.0\27.09.2022.exe
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\bin\Debug\net6.0\27.09.2022.deps.json
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\bin\Debug\net6.0\27.09.2022.runtimeconfig.json
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\bin\Debug\net6.0\27.09.2022.dll
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\bin\Debug\net6.0\27.09.2022.pdb
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\27.09.2022.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\27.09.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\27.09.2022.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\27.09.2022.AssemblyInfo.cs
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\27.09.2022.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\27.09.2022.dll
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\refint\27.09.2022.dll
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\27.09.2022.pdb
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\27.09.2022.genruntimeconfig.cache
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\27.09.2022\Lab 2\obj\Debug\net6.0\ref\27.09.2022.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\bin\Debug\net6.0\27.09.2022.exe
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\bin\Debug\net6.0\27.09.2022.deps.json
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\bin\Debug\net6.0\27.09.2022.runtimeconfig.json
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\bin\Debug\net6.0\27.09.2022.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\bin\Debug\net6.0\27.09.2022.pdb
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\27.09.2022.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\27.09.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\27.09.2022.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\27.09.2022.AssemblyInfo.cs
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\27.09.2022.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\27.09.2022.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\refint\27.09.2022.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\27.09.2022.pdb
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\27.09.2022.genruntimeconfig.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.09.27_Lab2\Lab 2\obj\Debug\net6.0\ref\27.09.2022.dll
